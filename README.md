@@ -75,7 +75,7 @@
 
   <section class="contact">
     <h2 class="section-title">Contact</h2>
-    <p>Email: <a href="mailto:sufiyany491@gmail.com">sufiyan@example.com</a></p>
+    <p>Email: <a href="mailto:sufiyany491@gmail.com">sufiyany491@gmail.com/</p>
     <p>Phone: +251 927910684</p>
   </section>
 
